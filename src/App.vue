@@ -1,6 +1,6 @@
 <template>
-  <NavBar/>
-  
+  <NavBar/> 
+  <CartDetail/>
     <router-view />
 </template>
 

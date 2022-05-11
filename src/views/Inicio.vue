@@ -9,7 +9,7 @@
 import Productos from "@/components/Productos.vue";
 export default {
   components :{
-    Productos
+    Productos,
   }
 }
 </script>
