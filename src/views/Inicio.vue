@@ -1,8 +1,9 @@
 <template>
   <h1>Inicio</h1>
   <Productos/>
-      <router-view />
-
+  <router-view />
+  <!-- Campo de busqueda productos -->
+  <input type="text" v-model="buscar" class="form-control" placeholder="Ejemplo: Charmander"/>
 </template>
 
 <script>

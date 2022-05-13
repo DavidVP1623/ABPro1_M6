@@ -1,0 +1,38 @@
+[
+    {
+       "id":"1",
+       "nombre":"Mouse Logitec",
+       "precio":"1000",
+       "img":"imagen1.png"
+    },
+    {
+       "id":"2",
+       "nombre":"Notebook HP",
+       "precio":"2000",
+       "img":"imagen2.png"
+    },
+    {
+       "id":"3",
+       "nombre":"Parlante JBL",
+       "precio":"3000",
+       "img":"imagen3.png"
+    },
+    {
+       "id":"4",
+       "nombre":"Audifono Bose",
+       "precio":"4000",
+       "img":"imagen4.png"
+    },
+    {
+       "id":"5",
+       "nombre":"Monitor ViewSonic",
+       "precio":"5000",
+       "img":"imagen5.png"
+    },
+    {
+       "id":"6",
+       "nombre":"Teclado Lenovo",
+       "precio":"6000",
+       "img":"imagen6.png"
+    }
+]
