@@ -1,6 +1,5 @@
 <template>
   <div class="container mb-5">
-    <h2 class="text-center mb-3">Productos</h2>
     <div class="row justify-content-center">
       <div
         class="card col-6 col-sm-2 m-3 p-0"
